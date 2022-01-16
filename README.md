@@ -1,7 +1,7 @@
 <a id="anchor"></a>
 # Quiz App
 ***
-![Start screen](assets/img/start.png)
+![Start screen](assets/img/Start.png)
 ![Action gif](assets/img/action.gif)
 
 
