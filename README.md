@@ -1,11 +1,9 @@
 <a id="anchor"></a>
 # Quiz App
 ***
-![Start screen](assets/img/Start.png)
-![Rules screen](assets/img/Rules.png)
-![Game screen](assets/img/Correct.png)
-![Game screen](assets/img/Wrong.png)
-![Finish screen](assets/img/Finish.png)
+![Start screen](assets/img/start.png)
+![Action gif](assets/img/action.gif)
+
 
 
 ### About Project
